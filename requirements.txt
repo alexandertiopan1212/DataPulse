@@ -1,0 +1,7 @@
+streamlit
+pandas
+sqlalchemy
+streamlit-authenticator
+plotly
+pyyaml
+apscheduler
