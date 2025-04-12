@@ -11,6 +11,9 @@ DataPulse is a Streamlit-based real-time dashboard simulating a Change Data Capt
 - 🧾 Interactive filters and download to CSV
 - 👤 Multi-user login using `streamlit-authenticator`
 - 🔒 Credentialed access with hashed passwords (configurable via `credentials.yaml`)
+![{1D3A4394-1084-4812-8204-B1557FC12705}](https://github.com/user-attachments/assets/e72c2403-2281-4de8-85da-ba57359ded15)
+![{B8F1970A-7168-49ED-84D0-361CDA26A9CD}](https://github.com/user-attachments/assets/be0ee29e-4f98-467d-a4b5-c585f8d69209)
+![{0AD6DBE1-6A2B-463F-A839-E0FFA14F5003}](https://github.com/user-attachments/assets/d7587446-9edf-4415-8f37-591b65b68235)
 
 ---
 
